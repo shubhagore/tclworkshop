@@ -88,7 +88,29 @@
   * TCL_D5_SK7 L1 - Conclusion and acknowledgments
 
 
+# **Day 1: Introduction to TCL and VSDSYNTH Toolbox Usage:**
+## **TCL_D1_SK1 - Introduction**
+### **TCL_D1_SK1 L0 - Introduction to TCL task:**
+ * The task is **to build a user-interface that will take Excel sheet as the input and will provide the output as the datasheet**.
+ * The excel sheet consists of some important characteristics of our design such as **design name, output directory, netlist directory, Early library path, late library path, constraints file**, etc.
+    
+![ex_sheet_content](https://github.com/shubhagore/tclworkshop/assets/135098553/0111c9e6-90e8-4c87-ba1f-94b6c505243c)
 
+ * The below figure shows the pictorial representation of the task in the workshop. The **TCL box** in the figure below is the **User interface** that we need to design.
+ 
+![workshop_task](https://github.com/shubhagore/tclworkshop/assets/135098553/231b457f-4ab0-436c-8a89-e3805388cf93)
+
+![workshop_task1](https://github.com/shubhagore/tclworkshop/assets/135098553/924d9991-2ee7-4088-95ef-403b91a9a238)
+
+### **TCL_D1_SK1 L1 - Introduction to sub-task:** 
+ * We are aware of the main task. We need to divide the main task into sub-task. This process of dividing the task from the main task is known as **top down approach**.
+ * The list of sub-tasks is as follows,
+   * Create the command (eg: vsdsynth) and pass .csv from UNIX to TCL script.(We need to create a command to which .csv file is given as the input).
+
+![subtask1](https://github.com/shubhagore/tclworkshop/assets/135098553/e396041e-e769-4444-ae1e-f49572f2dc75)
+
+   * Convert all the inputs to format[1] and SDC format and pass to synthesis tool "yosys".
+ 
 
 
 
