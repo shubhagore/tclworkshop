@@ -134,7 +134,7 @@
 
 ![arguments](https://github.com/shubhagore/tclworkshop/assets/135098553/57958960-4856-4799-996c-cf3f42eaf4ab)
 
-##### **Create Command (panda) and pass csv file from UNIC shell to Tcl script**
+##### **Create Command (TCL) and pass csv file from UNIX shell to Tcl script**
   * Open a script file here **eg vsdsynth**.
 
 ![opening_vsdsynth_file](https://github.com/shubhagore/tclworkshop/assets/135098553/a8973983-b8bb-4e02-9db1-7f5e15bfb941)
@@ -177,8 +177,15 @@
 ![output_help2](https://github.com/shubhagore/tclworkshop/assets/135098553/405b498c-384a-4f2f-afcb-0506f92bbbf7)
 
 
-
-
+# **Day 2: Variable creation and Processing Constraints from CSV:**
+## **TCL_D2_SK1 - Sub-Task Two-From CSV to format[1] and SDC-Variable Creation**
+### **TCL_D2_SK1 L1 - Various tasks involved in format conversion:**
+ 
+ **Convert all the inputs to format[1] and SDC format and pass to synthesis tool "**yosys**"**  
+ 
+ * There are further sub-tasks for easy understanding
+    * Creating the variables, so that the paths present in the excel can be accessed using these variables.
+    * Check if the directories and paths mentioned in the .csv file exists or not 
 
 
 
