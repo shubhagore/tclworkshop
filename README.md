@@ -149,6 +149,44 @@
 
  ![change_of_permission](https://github.com/shubhagore/tclworkshop/assets/135098553/9504b735-8e54-47d8-806a-be78e93928af)
 
+  * Executing the vsdsyth using the command **./vsdsynth**.
+
+![executing_vsdsynth](https://github.com/shubhagore/tclworkshop/assets/135098553/55a2eca2-24c1-492b-bccc-717566120d6b)
+
+### **TCL_D1_SK2 L2 - Scenarios 2 & 3 - User providing incorrect CSV or typing "-help":**
+
+#### **The user might have provided the .csv file, but the .csv file doesn't exists in the current working directory:**
+
+  * The script for finding if the provided input file doesn't exists is as below
+
+![script_for_csv_dont_exist](https://github.com/shubhagore/tclworkshop/assets/135098553/6c5f2175-3111-4f16-b17e-1a6fdf866481)
+
+  * Executing the vsdsynth file by passing the incorect .csv file.
+
+![csv_dont_exist](https://github.com/shubhagore/tclworkshop/assets/135098553/303f1e9c-c175-4321-bbab-afd61f574c0c)
+
+#### **User just wants to know how to run this UI, thus user may type **"-help"**:**
+  * The script for the execution if the user has typed **-help** is as shown below.
+
+![script_for_wrong_csv_and_help](https://github.com/shubhagore/tclworkshop/assets/135098553/0334f094-15a4-4df9-899e-cac5c2fd2d90)
+
+  * Executing vsdsynth with **-help** as the argument.
+
+![output_help1](https://github.com/shubhagore/tclworkshop/assets/135098553/605d6619-c226-48fa-8bba-8e7202c3c433)
+
+![output_help2](https://github.com/shubhagore/tclworkshop/assets/135098553/405b498c-384a-4f2f-afcb-0506f92bbbf7)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
