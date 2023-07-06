@@ -126,7 +126,28 @@
    * The user might have provided the .csv file, but the .csv file doesn't exists in the current working directory. But the vsdsynth block shouldn't stop and keep notifying or popping the error as .csv file doesn't exits.
    * User just wants to know how to run this UI, thus user may type **"-help"**
 
- ![user_scenarios](https://github.com/shubhagore/tclworkshop/assets/135098553/692a6892-7b61-430a-81ca-a88f2a46ed07)
+![user_scenarios](https://github.com/shubhagore/tclworkshop/assets/135098553/692a6892-7b61-430a-81ca-a88f2a46ed07)
+
+#### **User might not be provided by the .csv file as the input:**
+
+  * Check for the arguments provided along with **./vsdsynth {arg1}  {arg2} {arg3}...**. The argument count should always be atleast **1**. If the **arg != 1** then an echo statement will be printed saying **Please provide the .csv file**.
+
+![arguments](https://github.com/shubhagore/tclworkshop/assets/135098553/57958960-4856-4799-996c-cf3f42eaf4ab)
+
+##### **Create Command (panda) and pass csv file from UNIC shell to Tcl script**
+  * Open a script file here **eg vsdsynth**.
+
+![opening_vsdsynth_file](https://github.com/shubhagore/tclworkshop/assets/135098553/a8973983-b8bb-4e02-9db1-7f5e15bfb941)
+   
+  * The picture below represent the script informing to provide the .csv file.
+
+![provide_csv](https://github.com/shubhagore/tclworkshop/assets/135098553/554f3b68-8736-48e8-9faf-4e1beb9facd0)
+
+![vsdsynth_file](https://github.com/shubhagore/tclworkshop/assets/135098553/fee11f9e-b4de-4ea5-9410-e34edfcc696f)
+
+  * The vsdsynth file doesn't have executable permission so need to change to executable file.
+
+ ![change_of_permission](https://github.com/shubhagore/tclworkshop/assets/135098553/9504b735-8e54-47d8-806a-be78e93928af)
 
 
 
