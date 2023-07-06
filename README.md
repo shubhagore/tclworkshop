@@ -197,8 +197,15 @@
 **Creating the variables**
 
   * Now we are aware of how to pass the .csv file into vsdsynth file (shell script file) and way to access the .csv is using **tclsh ./vsdsynth.tcl $argv[1]**.
-  * Next step is to access the elements of .csv file what we have 
+  * Next step is to access the elements of .csv file what we have
+  * The below figure gives the pictorial represenatation of accessing the .csv file in the form of arguments
 
+![acess_argv](https://github.com/shubhagore/tclworkshop/assets/135098553/3ec20001-a897-403d-8e1d-7f2a8ebbf0ae)
+
+  * In the above figure the **lindex** is a TCL command which will help in listing the index when there are lists of arguments.
+  * Steps involved in creating the variables out of the csv file is
+    * Convert the contents of **.csv file into a matrix**. To access the matrix we need to know the number of rows and columns of a matrix. **matrix(column,row)** is the format.
+    * Convert the **matrix into an array**.  
 
 
 
