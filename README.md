@@ -93,8 +93,12 @@
 ### **TCL_D1_SK1 L0 - Introduction to TCL task:**
  * The task is **to build a user-interface that will take Excel sheet as the input and will provide the output as the datasheet**.
  * The excel sheet consists of some important characteristics of our design such as **design name, output directory, netlist directory, Early library path, late library path, constraints file**, etc.
-    
+
 ![ex_sheet_content](https://github.com/shubhagore/tclworkshop/assets/135098553/0111c9e6-90e8-4c87-ba1f-94b6c505243c)
+
+ * The figure below represents the pictorial representation of hoe to access the excel sheet using the commands from he terminal.
+
+![excel_opening_command](https://github.com/shubhagore/tclworkshop/assets/135098553/bc635822-9f35-4ed2-896f-969f304b5870)
 
  * The below figure shows the pictorial representation of the task in the workshop. The **TCL box** in the figure below is the **User interface** that we need to design.
  
@@ -109,8 +113,22 @@
 
 ![subtask1](https://github.com/shubhagore/tclworkshop/assets/135098553/e396041e-e769-4444-ae1e-f49572f2dc75)
 
-   * Convert all the inputs to format[1] and SDC format and pass to synthesis tool "yosys".
+   * Convert all the inputs to format[1] and SDC format and pass to synthesis tool "**yosys**".
+   * Convert all the inputs to format[1] and SDC to format[2] and pass to the timing tool **"opentimer"**.
+   * Generate the output report.
+
+## **TCL_D1_SK2 - Sub-Task One: VSDSYNTH Toolbox usage scenarios**
+### **TCL_D1_SK2 L1 - Scenario 1 - User doesn't provide an input CSV file:** 
  
+ * The first tasknow is to **Create the command (eg: vsdsynth) and pass .csv from UNIX to TCL script.**
+ * We will note some of the scenarios from the user point of view
+   * User might not be provided by the .csv file as the input by mistake. At that time we have to go back to the user requesting to provide them the .csv file.
+   * The user might have provided the .csv file, but the .csv file doesn't exists in the current working directory. But the vsdsynth block shouldn't stop and keep notifying or popping the error as .csv file doesn't exits.
+   * User just wants to know how to run this UI, thus user may type **"-help"**
+
+ ![user_scenarios](https://github.com/shubhagore/tclworkshop/assets/135098553/692a6892-7b61-430a-81ca-a88f2a46ed07)
+
+
 
 
 
