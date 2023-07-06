@@ -184,11 +184,20 @@
  **Convert all the inputs to format[1] and SDC format and pass to synthesis tool "**yosys**"**  
  
  * There are further sub-tasks for easy understanding
-    * Creating the variables, so that the paths present in the excel can be accessed using these variables.
-    * Check if the directories and paths mentioned in the .csv file exists or not 
+    * **Creating the variables**, so that the paths present in the excel can be accessed using these variables.
+    * Check if the **directories and paths** mentioned in the .csv file **exists or not**
+    * Read the **"constraints file"** for the above .csv and **convert to SDC** (Standard synopsys design constraints) format.
+    * Read all the files in the **"Netlist directory"**.
+    * Create the main **synthesis script in format[2]**
+    * Pass this script to **"Yosys"**.
 
+### **TCL_D2_SK1 L2 - Auto-Create variables using matrix and arrays:**
 
+**Convert all the inputs to format[1] and SDC format and pass to synthesis tool "**yosys**"**  
+**Creating the variables**
 
+  * Now we are aware of how to pass the .csv file into vsdsynth file (shell script file) and way to access the .csv is using **tclsh ./vsdsynth.tcl $argv[1]**.
+  * Next step is to access the elements of .csv file what we have 
 
 
 
