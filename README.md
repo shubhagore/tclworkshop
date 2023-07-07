@@ -220,6 +220,10 @@
   * **set no_of_rows [m rows]** ------ Returns the no. of rows for matrix m
   * **set i 0** ------ Provided for looping purpose.
 
+### **TCL_D2_SK1 L4 - Auto creation of the first variable - DesignName**
+
+  * The contents what we have till now is **$filename, $matrixName, $columns, $my_arr, $no_of_rows, $i**
+  * **string map (_day _night) good_day** -------- Here the string map replaces **_day by _night**.
 
 
 
