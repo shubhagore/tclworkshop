@@ -210,6 +210,7 @@
 ![processing](https://github.com/shubhagore/tclworkshop/assets/135098553/0f989187-fcb4-4250-b59e-983d707c058f)
 
 ### **TCL_D2_SK1 L3 - Initialize variables for auto-creation variables task:**
+  * Initially we will have to set the filname
 
 
 
