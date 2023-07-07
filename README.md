@@ -213,7 +213,12 @@
   * Initially we will have to **set the filname**.
   * Create the matrix object and the command used is **struct::matrix m**. The **two packages** are required to **process a csv and a matrix**. Hence they should be mentioned.
   * **set f [open $filename]** ----- This indicates that the variable 'f' is assigned to the opened file in read mode. This command is equivalent to vim in linux
-  * **csv::read2matrix $f m, auto** ------ This command maps the opened csv file and the matrix that has been created. 
+  * **csv::read2matrix $f m, auto** ------ This command maps the opened csv file and the matrix that has been created. The comma is used as the channel separator and **auto** is to automatically identify the size of the matrix.
+  * **close $f** ------ closes the opened csv file
+  * **set columns [m columns]** ------ Returns the no. of columns for matrix m
+  * **m link my_arr** -------- This command links the matrix 'm' to an array 'my_arr'.
+  * **set no_of_rows [m rows]** ------ Returns the no. of rows for matrix m
+  * **set i 0** ------ Provided for looping purpose.
 
 
 
