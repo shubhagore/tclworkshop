@@ -210,7 +210,10 @@
 ![processing](https://github.com/shubhagore/tclworkshop/assets/135098553/0f989187-fcb4-4250-b59e-983d707c058f)
 
 ### **TCL_D2_SK1 L3 - Initialize variables for auto-creation variables task:**
-  * Initially we will have to set the filname
+  * Initially we will have to **set the filname**.
+  * Create the matrix object and the command used is **struct::matrix m**. The **two packages** are required to **process a csv and a matrix**. Hence they should be mentioned.
+  * **set f [open $filename]** ----- This indicates that the variable 'f' is assigned to the opened file in read mode. This command is equivalent to vim in linux
+  * **csv::read2matrix $f m, auto** ------ This command maps the opened csv file and the matrix that has been created. 
 
 
 
