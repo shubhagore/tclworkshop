@@ -225,7 +225,7 @@
   * The contents what we have till now is **$filename, $matrixName, $columns, $my_arr, $no_of_rows, $i**
   * **string map (_day _night) good_day** -------- Here the string map replaces **_day by _night**.
 
-
+### **TCL_D2_SK1 L5 - Auto creation of variables complete**
 
 
 
