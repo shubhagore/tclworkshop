@@ -207,8 +207,9 @@
     * Convert the contents of **.csv file into a matrix**. To access the matrix we need to know the number of rows and columns of a matrix. **matrix(column,row)** is the format.
     * Convert the **matrix into an array**.  
 
+![processing](https://github.com/shubhagore/tclworkshop/assets/135098553/0f989187-fcb4-4250-b59e-983d707c058f)
 
-
+### **TCL_D2_SK1 L3 - Initialize variables for auto-creation variables task:**
 
 
 
