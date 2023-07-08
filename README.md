@@ -240,9 +240,15 @@
 
 ![output_tcl1](https://github.com/shubhagore/tclworkshop/assets/135098553/ca104e0d-9760-4379-8b41-98f46507092f)
 
+**Check if the **directories and paths** mentioned in the .csv file **exists or not****
 
+  * We need to check if the mentioned files do exist or not, so here is the manual method of checking them.
 
+![manual_check_of_files1](https://github.com/shubhagore/tclworkshop/assets/135098553/da76015e-6201-44c1-8394-84a2330dcf69)
 
+![manual_check_of_files2](https://github.com/shubhagore/tclworkshop/assets/135098553/fc41197d-e5a3-4ffc-8a2f-3c832c0e569b)
+
+![manual_check_of_files3](https://github.com/shubhagore/tclworkshop/assets/135098553/225cfbdd-bf50-4943-a325-5f014ca6838d)
 
 
 
