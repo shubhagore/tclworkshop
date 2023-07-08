@@ -271,7 +271,17 @@
 
 ![auto_check_of_files_output](https://github.com/shubhagore/tclworkshop/assets/135098553/3a9ddf95-08ec-419f-80fa-156b1d544305)
 
+  * Some changes are been made in the excel sheet so that some files or directories with not found statements can be found
 
+![opening_excel_file](https://github.com/shubhagore/tclworkshop/assets/135098553/19ca087b-18b1-451a-824c-53e80361dadf)
+
+![excel_before_changing](https://github.com/shubhagore/tclworkshop/assets/135098553/d3bf46be-1b1c-46a9-ba93-48a43822967b)
+
+![excel_after_changing](https://github.com/shubhagore/tclworkshop/assets/135098553/3b936ba4-baf4-46d3-8765-7d5e3fb11182)
+
+  * The ouput after making changes in the excel sheet is as below
+
+![output_tcl2](https://github.com/shubhagore/tclworkshop/assets/135098553/9e2fecaf-9e09-4298-ae27-5308c74be812)
 
 
 
