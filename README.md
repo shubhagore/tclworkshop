@@ -253,7 +253,23 @@
 ## **TCL_D2_SK2 - Sub-Task Two-From CSV to format[1] and SDC-Processing constraints, CSV**
 ### **TCL_D2_SK2 L1 - Checking the existence of files and folders mentioned in design_details.csv**
 
+  * The existence of file and directories should be done automatically using the script.
 
+### **TCL_D2_SK2 L2 - Convert constraints.csv file to matrix object** 
+
+  * The scripts for automation is as shown below
+
+![file_check_script1](https://github.com/shubhagore/tclworkshop/assets/135098553/b7092d3a-6df1-4d43-9555-f7667b001d9b)
+
+![file_check_script2](https://github.com/shubhagore/tclworkshop/assets/135098553/0123eeab-987f-4868-8532-b967e2f9725a)
+
+  * Checking of existence of output directory is as below
+
+![auto_check_of_files1](https://github.com/shubhagore/tclworkshop/assets/135098553/d243653f-5ec9-4731-87b7-e568a01e1dda)
+
+![auto_check_of_files2](https://github.com/shubhagore/tclworkshop/assets/135098553/a68f31f9-76a8-41cd-a751-e89060a329b8)
+
+![auto_check_of_files_output](https://github.com/shubhagore/tclworkshop/assets/135098553/3a9ddf95-08ec-419f-80fa-156b1d544305)
 
 
 
