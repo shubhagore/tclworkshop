@@ -1,4 +1,4 @@
-# **TCL WORKSHOP**
+![user_scenarios](https://github.com/shubhagore/tclworkshop/assets/135098553/dd879b35-74e4-4e2d-b313-95903ab30bf5)![output_tcl2](https://github.com/shubhagore/tclworkshop/assets/135098553/7899225d-343a-4c2d-bbad-9efcbb20b06e)# **TCL WORKSHOP**
 
 # **Table of content**
 
@@ -282,6 +282,18 @@
   * The ouput after making changes in the excel sheet is as below
 
 ![output_tcl2](https://github.com/shubhagore/tclworkshop/assets/135098553/9e2fecaf-9e09-4298-ae27-5308c74be812)
+
+**Read the "constraints file" for the above .csv and convert to SDC format.**
+
+  * The constraints .csv file looks as below
+
+![constraints_csv_file4](https://github.com/shubhagore/tclworkshop/assets/135098553/bb8b1e6e-1047-4132-ac85-6fad2520fdb3)
+
+![constraints_csv_file2](https://github.com/shubhagore/tclworkshop/assets/135098553/a380ac19-1b12-48d4-a640-ba1eee9ceac2)
+
+![constraints_csv_file3](https://github.com/shubhagore/tclworkshop/assets/135098553/5a828ae3-d411-44c2-a12b-e67ca724eb10)
+
+
 
 
 
