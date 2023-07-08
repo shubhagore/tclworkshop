@@ -236,7 +236,9 @@
 
 ![variable_script1](https://github.com/shubhagore/tclworkshop/assets/135098553/d62456e9-158a-4cad-934b-7b506dbaf5b6)
 
+![executing_vsdsynth_tcl](https://github.com/shubhagore/tclworkshop/assets/135098553/e324e82e-0987-46e7-b704-5f62f945ed6a)
 
+![output_tcl1](https://github.com/shubhagore/tclworkshop/assets/135098553/ca104e0d-9760-4379-8b41-98f46507092f)
 
 
 
