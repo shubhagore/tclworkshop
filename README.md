@@ -299,6 +299,10 @@
 
 ### **TCL_D2_SK2 L3 - Compute row number using complex matrix processing**
 
+  * The starting column number and row number of all the **clocks, input ports, output ports need to be calculated**.
+
+### **TCL_D2_SK2 L4 - DEMO for computing row numbers**
+
 
 
 
