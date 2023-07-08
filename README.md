@@ -232,6 +232,33 @@
 
 ### **TCL_D2_SK1 L6 - Variable creation DEMO using TCL**
 
+![variable_script](https://github.com/shubhagore/tclworkshop/assets/135098553/058428f2-d42a-4edf-bd0b-bc28bf1ed1da)
+
+![variable_script1](https://github.com/shubhagore/tclworkshop/assets/135098553/d62456e9-158a-4cad-934b-7b506dbaf5b6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
