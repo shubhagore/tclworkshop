@@ -226,9 +226,11 @@
   * **string map (_day _night) good_day** -------- Here the string map replaces **_day by _night**.
 
 ### **TCL_D2_SK1 L5 - Auto creation of variables complete**
+  * **file normalize $my_arr(1, $i)** -------- Here this command will give the detailed path of the directory
+    * **Before normalizaion** If the path would be **~/Desktop/vsdflow/vsdsynth**
+    * **After normalization** the path would be **/home/shubha/Desktop/vsdflow/vsdsynth**
 
-
-
+### **TCL_D2_SK1 L6 - Variable creation DEMO using TCL**
 
 
 
