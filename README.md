@@ -293,7 +293,11 @@
 
 ![constraints_csv_file3](https://github.com/shubhagore/tclworkshop/assets/135098553/5a828ae3-d411-44c2-a12b-e67ca724eb10)
 
+  * In converting the .csv file to the SDC file the following steps need to be followed,
+    * Convert the **csv to matrix**
+    * Get the **count of rows and columns** of the matrix
 
+### **TCL_D2_SK2 L3 - Compute row number using complex matrix processing**
 
 
 
