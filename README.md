@@ -250,7 +250,8 @@
 
 ![manual_check_of_files3](https://github.com/shubhagore/tclworkshop/assets/135098553/225cfbdd-bf50-4943-a325-5f014ca6838d)
 
-
+## **TCL_D2_SK2 - Sub-Task Two-From CSV to format[1] and SDC-Processing constraints, CSV**
+### **TCL_D2_SK2 L1 - Checking the existence of files and folders mentioned in design_details.csv**
 
 
 
