@@ -1,4 +1,5 @@
-![user_scenarios](https://github.com/shubhagore/tclworkshop/assets/135098553/dd879b35-74e4-4e2d-b313-95903ab30bf5)![output_tcl2](https://github.com/shubhagore/tclworkshop/assets/135098553/7899225d-343a-4c2d-bbad-9efcbb20b06e)# **TCL WORKSHOP**
+(https://github.com/shubhagore/tclworkshop/assets/135098553/7899225d-343a-4c2d-bbad-9efcbb20b06e)
+# **TCL WORKSHOP**
 
 # **Table of content**
 
@@ -96,7 +97,7 @@
 
 ![ex_sheet_content](https://github.com/shubhagore/tclworkshop/assets/135098553/0111c9e6-90e8-4c87-ba1f-94b6c505243c)
 
- * The figure below represents the pictorial representation of hoe to access the excel sheet using the commands from he terminal.
+ * The figure below represents the pictorial representation of how to access the excel sheet using the commands from he terminal.
 
 ![excel_opening_command](https://github.com/shubhagore/tclworkshop/assets/135098553/bc635822-9f35-4ed2-896f-969f304b5870)
 
