@@ -303,8 +303,15 @@
 
 ### **TCL_D2_SK2 L4 - DEMO for computing row numbers**
 
+  * The script to find the column number and row number of all the **clocks, input ports, output ports** is as shown below.
 
+![row_column_no_csv_file_script](https://github.com/shubhagore/tclworkshop/assets/135098553/050a6081-ebcb-4eaa-b724-ce2746749f8e)
 
+  * The output after calculating the row and column number is as shown below.
+
+![row_column_no_csv_file_output1](https://github.com/shubhagore/tclworkshop/assets/135098553/e107c764-9015-4f03-8577-8b51012c3df2)
+
+![row_column_no_csv_file_output2](https://github.com/shubhagore/tclworkshop/assets/135098553/9c73920b-fa75-456f-8a62-40a2cc6e0337)
 
 
 
