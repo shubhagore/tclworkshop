@@ -327,6 +327,8 @@
 
   * **Duty cycle = (frequency * duty cycle)/100**
 
+### **TCL_D3_SK1 L5 - DEMO for creating complete clock constraints:**
+
 
 
 
