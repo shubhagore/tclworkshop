@@ -323,6 +323,7 @@
 
 ### **TCL_D3_SK1 L3 - Complete clock latency constraints and clockslew constraints in the SDC file:**
 
+###**TCL_D3_SK1 L4 - Code to create clock constraints with clock period and duty cycle**
 
 
 
