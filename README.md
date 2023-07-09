@@ -1,4 +1,3 @@
-(https://github.com/shubhagore/tclworkshop/assets/135098553/7899225d-343a-4c2d-bbad-9efcbb20b06e)
 # **TCL WORKSHOP**
 
 # **Table of content**
@@ -314,9 +313,11 @@
 
 ![row_column_no_csv_file_output2](https://github.com/shubhagore/tclworkshop/assets/135098553/9c73920b-fa75-456f-8a62-40a2cc6e0337)
 
+  * In VLSI **delays are normally termed as LATENCY**
 
-
-
+# **Day 3: Processing Clock and Input Constraints:**
+## **TCL_D3_SK1 - Sub-Task Two-From CSV to format[1] and SDC- Processing clock constraints**
+### **TCL_D3_SK1 L1 - Algorithm to identify the column number for clock latency constraints:**
 
 
 
