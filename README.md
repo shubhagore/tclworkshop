@@ -345,9 +345,12 @@
 
 ![sdc_created](https://github.com/shubhagore/tclworkshop/assets/135098553/135a38a5-1c28-4eb8-a6d1-82f3a81a5f7a)
 
+## **TCL_D3_SK2 - Sub-Task Two-From CSV to format[1] and SDC- Processing input constraints:**
+### **TCL_D3_SK2 L1 - Introduction to the takof differentiating between bits and a bus:**
 
-
-
+  * The multi-bit port is known as **bus**.
+    * Example: **input [6:0] dbg_i2c_addr**
+  
 
 
 
