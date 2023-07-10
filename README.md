@@ -357,7 +357,10 @@
 
 ![algorithm_input_ports](https://github.com/shubhagore/tclworkshop/assets/135098553/ab2a499a-5903-4a58-ae66-b2fb52ece7f0)
 
+### **TCL_D3_SK2 L3 - File access and pattern creation steps**
 
+  * **glob** means searching.
+  * 
 
 
 
