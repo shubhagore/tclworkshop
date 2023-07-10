@@ -367,6 +367,10 @@
 
 ![io_script2](https://github.com/shubhagore/tclworkshop/assets/135098553/04bf254c-5621-4fa1-85f7-d8614d8dcb22)
 
+### **TCL_D3_SK2 L6 - Read, split, uniquify, sort, and join input ports to remove duplication:**
+
+### **TCL_D3_SK2 L7 - Evaluate the length of the string and Demo of bits/bussed differentation script:**
+
 
 
 
