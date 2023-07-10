@@ -333,7 +333,7 @@
 
 ![clock_constraints_script1](https://github.com/shubhagore/tclworkshop/assets/135098553/40197b63-99d6-4249-ac4d-2698fc8a19cd)
 
-![clock_constraints_script2](https://github.com/shubhagore/tclworkshop/assets/135098553/c0df4ecb-7f23-4495-8dcc-513fad2d0b6f)
+![clock_constraints_script2](https://github.com/shubhagore/tclworkshop/assets/135098553/796dc077-d041-464c-90b9-9701e144c014)
 
   * If the above script is executed from the beginning then the output is as follows and a new SDC file will also be created in the path **/home/vsduser/vsdsynth/outdir_openMSP430**
 
@@ -343,8 +343,7 @@
 
   * The below figure is the SDC file that has been created after executing the the above mentioned script which is in the path **/home/vsduser/vsdsynth/outdir_openMSP430**.
 
-![sdc_created_file](https://github.com/shubhagore/tclworkshop/assets/135098553/e12267be-53c6-43c2-a95d-521667b32264)
-
+![sdc_created](https://github.com/shubhagore/tclworkshop/assets/135098553/135a38a5-1c28-4eb8-a6d1-82f3a81a5f7a)
 
 
 
