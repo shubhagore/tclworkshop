@@ -329,6 +329,41 @@
 
 ### **TCL_D3_SK1 L5 - DEMO for creating complete clock constraints:**
 
+  * The below figure shows the script for the clock constraints which is to be present in the SDC file
+
+![clock_constraints_script1](https://github.com/shubhagore/tclworkshop/assets/135098553/40197b63-99d6-4249-ac4d-2698fc8a19cd)
+
+![clock_constraints_script2](https://github.com/shubhagore/tclworkshop/assets/135098553/c0df4ecb-7f23-4495-8dcc-513fad2d0b6f)
+
+  * If the above script is executed from the beginning then the output is as follows and a new SDC file will also be created in the path **/home/vsduser/vsdsynth/outdir_openMSP430**
+
+![clock_constraints_output1](https://github.com/shubhagore/tclworkshop/assets/135098553/d43f3b33-9bf8-435d-82ec-f1eed35b4e79)
+
+![clock_constraints_output2](https://github.com/shubhagore/tclworkshop/assets/135098553/c8771145-7262-4a09-a9a7-1ec6ad39431e)
+
+  * The below figure is the SDC file that has been created after executing the the above mentioned script which is in the path **/home/vsduser/vsdsynth/outdir_openMSP430**.
+
+![sdc_created_file](https://github.com/shubhagore/tclworkshop/assets/135098553/e12267be-53c6-43c2-a95d-521667b32264)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
