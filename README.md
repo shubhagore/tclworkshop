@@ -359,9 +359,13 @@
 
 ### **TCL_D3_SK2 L3 - File access and pattern creation steps**
 
-  * **glob** means searching.
-  * 
+  * **glob** means searching the wildcard in a particular direcory.
 
+### **TCL_D3_SK2 L5 - Demo for grepping input ports from all verilogs and reformatting for fixed space**
+
+![io_script1](https://github.com/shubhagore/tclworkshop/assets/135098553/b94cd9ff-7c1e-48be-92f3-a44546ddef0b)
+
+![io_script2](https://github.com/shubhagore/tclworkshop/assets/135098553/04bf254c-5621-4fa1-85f7-d8614d8dcb22)
 
 
 
