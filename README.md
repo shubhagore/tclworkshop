@@ -351,7 +351,11 @@
   * The multi-bit port is known as **bus**.
     * Example: **input [6:0] dbg_i2c_addr**
   
+### **TCL_D3_SK2 L2 - Algorithm to categorize input ports as bits and bussed:**
 
+  * The algorithm for differentiating the input ports as bits and bussed is as shown below,
+
+![algorithm_input_ports](https://github.com/shubhagore/tclworkshop/assets/135098553/ab2a499a-5903-4a58-ae66-b2fb52ece7f0)
 
 
 
