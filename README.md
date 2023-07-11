@@ -385,6 +385,20 @@
 
 ![sdc_created_input_ports](https://github.com/shubhagore/tclworkshop/assets/135098553/7f8774e8-146e-4d5c-819b-ded0105ab95f)
 
+# **Day 4: Complete Scriptingg and Yosys Synthesis Introduction:**
+## **TCL_D4_SK1 - Full script for download and Conclusion:**
+### **TCL_D4_SK1 L1 - Constraints generation logic for the output port and Conclusion!!:**
+
+## **TCL_D4_SK2 - Introduction to Yosys synthesis tool and usage:**
+### **TCL_D4_SK2 L1 - Example of a memory module RTL description:**
+
+  * The yosys output is as below
+
+![yosys_output](https://github.com/shubhagore/tclworkshop/assets/135098553/b1192c89-0297-47ba-8153-2aaa1b89b634)
+
+### **TCL_D4_SK2 L2 - Memory functionality and Synthesis using Yosys:**
+
+YOSYS is an open-source RTL synthesis and formal verification framework for digital circuits. It takes RTL descriptions (e.g., Verilog) as input and performs synthesis to generate a gate-level netlist. YOSYS supports technology mapping, optimization, and formal verification. It has a scripting interface, integrates with other EDA tools, and is widely used in academia and industry for digital design tasks.
 
 
 
