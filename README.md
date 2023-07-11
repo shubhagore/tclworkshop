@@ -381,6 +381,9 @@
 
 ![io_script6](https://github.com/shubhagore/tclworkshop/assets/135098553/f0497760-09fc-4ef4-8c42-3ef861edcc69)
 
+  * The SDC with input port is as below
+
+![sdc_created_input_ports](https://github.com/shubhagore/tclworkshop/assets/135098553/7f8774e8-146e-4d5c-819b-ded0105ab95f)
 
 
 
