@@ -371,9 +371,15 @@
 
 ### **TCL_D3_SK2 L7 - Evaluate the length of the string and Demo of bits/bussed differentation script:**
 
+### **TCL_D3_SK2 L8 - Demo for input constraints generation and bits/bussed differentiation:**
 
+![io_script3](https://github.com/shubhagore/tclworkshop/assets/135098553/4fca3fc3-38e7-423f-a283-c444cf324930)
 
+![io_script4](https://github.com/shubhagore/tclworkshop/assets/135098553/3091882a-af19-44e8-abb7-8d24f5205644)
 
+![io_script5](https://github.com/shubhagore/tclworkshop/assets/135098553/5339cf1f-3d6c-4139-a10a-c44da4bce03e)
+
+![io_script6](https://github.com/shubhagore/tclworkshop/assets/135098553/f0497760-09fc-4ef4-8c42-3ef861edcc69)
 
 
 
